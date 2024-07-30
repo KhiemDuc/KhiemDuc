@@ -7,6 +7,7 @@
 <a href="https://github.com/KhiemDuc/">
   <img align="left" alt="Khiem Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+  <br />
 </div>
 <div>
 <p>
