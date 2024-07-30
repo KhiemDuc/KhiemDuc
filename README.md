@@ -21,9 +21,10 @@
 <p>
     - 📫 How to reach me: nguyenduckhiem1002@gmail.com
 </p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 
 
 
