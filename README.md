@@ -6,10 +6,16 @@
 <a href="https://github.com/KhiemDuc/">
   <img align="left" alt="Khiem Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-- 🌱 Currently learning: ABAP
-- 🔭 Working on: FPT IS
-- 🌍 Languages: C#, ABAP
-- 📫 How to reach me: nguyenduckhiem1002@gmail.com
+<p>
+  - 🌱 Currently learning: ABAP
+</p>
+<p>
+    - 🔭 Working on: FPT IS
+</p>
+<p>
+    - 📫 How to reach me: nguyenduckhiem1002@gmail.com
+</p>
+
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
