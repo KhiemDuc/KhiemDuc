@@ -8,7 +8,7 @@
   <img align="left" alt="Khiem Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </div>
-
+<div>
 <p>
   - 🌱 Currently learning: ABAP
 </p>
@@ -18,7 +18,7 @@
 <p>
     - 📫 How to reach me: nguyenduckhiem1002@gmail.com
 </p>
-
+</div>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
