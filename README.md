@@ -15,7 +15,7 @@
   - 🌱 Currently learning: ABAP
 </p>
 <p>
-    - 🔭 Working on: FPT IS
+    - 🔭 Working on: Viettel Software
 </p>
 <p>
     - 📫 How to reach me: nguyenduckhiem1002@gmail.com
